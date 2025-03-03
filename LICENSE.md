@@ -1,0 +1,7 @@
+echo "# Pubg-Website" >> README.md 
+git init 
+git add README.md 
+git commit -m "первый коммит" 
+git branch -M main 
+git remote add origin https://github.com/Reh46/Pubg-Website.git
+ git push -u origin main
